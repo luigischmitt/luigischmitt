@@ -1,5 +1,6 @@
 <h1 align="center">Hey there 👋, I'm Luigi</h1>
 <h3 align="center">A Computer Science Student from Brasil</h3>
+<br>
 
 - 🔭 I’ve been accepted as an incoming **Computer Science** student at both **USP** and **UFPB**
 - 📚 I'm currently a Student Member at **TAIL - Technology and Artificial Intelligence League**
