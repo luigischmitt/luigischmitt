@@ -28,6 +28,7 @@
   <h3 align="left">Connect with me:</h3>
   <a target="_blank" href="https://www.linkedin.com/in/luigischmitt/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:schmittluigi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a target="_blank" href="https://www.codewars.com/users/luigischmitt/stats/"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" target="_blank"></a> 
+  <a target="_blank" href="https://leetcode.com/u/luigischmitt/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=" target="_blank"></a>
+  <a target="_blank" href="https://www.codewars.com/users/luigischmitt/stats/"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" target="_blank"></a>
  
 </div>
