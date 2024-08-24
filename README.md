@@ -2,10 +2,10 @@
 <h3 align="center">A Computer Science Student from Brasil</h3>
 <br>
 
-- 🔭 I’ve been accepted as an incoming **Computer Science** student at both **USP** and **UFPB**
+- 🔭 I am currently a first-year Computer Science student at **UFPB**. I was also accepted at **USP**
 - 📚 I'm currently a Student Member at **TAIL - Technology and Artificial Intelligence League**
 - 🌱 I’m currently learning **Python and C**
-
+  
  <div>
   <br>
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luigischmitt&theme=gotham&show_icons=true" /> 
