@@ -4,7 +4,7 @@
 
 - 🔭 I am currently a first-year Computer Science student at **UFPB**. I was also accepted at **USP**
 - 📚 I'm currently a Student Member at **TAIL - Technology and Artificial Intelligence League**
-- 🌱 I’m currently learning **Python, C and C++**
+- 🌱 I’m currently learning **Python and React**
   
  <div>
   <br>
