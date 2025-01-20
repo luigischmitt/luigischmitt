@@ -9,7 +9,6 @@
  <div>
   <br>
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luigischmitt&theme=gotham&show_icons=true" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luigischmitt&hide_progress=false&theme=gotham" />
 </div>
 
 <div style="display: inline_block">
