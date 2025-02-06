@@ -3,7 +3,7 @@
 <br>
 
 - 🔭 I am currently a first-year Computer Science student at **UFPB**. I was also accepted at **USP**
-- 📚 I'm currently a **Researcher Intern** at **Moises AI**
+- 📚 I'm currently a **Researcher Intern** at **Moises/Music AI**
 - 🌱 I’m currently learning **Audio Signal Processing for Machine Learning**
   
  <div>
