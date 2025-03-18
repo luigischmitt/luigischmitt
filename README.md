@@ -2,14 +2,9 @@
 <h3 align="center">A Passionate Computer Science Student</h3>
 <br>
 
-- 🔭 I am currently a first-year Computer Science student at **UFPB**. I was also accepted at **USP**
-- 📚 I'm currently a **Researcher Intern** at **Moises/Music AI**
+- 💼 I'm currently a **Researcher Intern** at **Moises/Music.AI**
+- 📚 I am currently a **first-year** Computer Science student at **UFPB**. I was also accepted at **USP**
 - 🌱 I’m currently learning **Audio Signal Processing for Machine Learning**
-  
- <div>
-  <br>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luigischmitt&theme=gotham&show_icons=true" /> 
-</div>
 
 <div style="display: inline_block">
   <h3 align="left">Languages and Tools:</h3>
