@@ -4,7 +4,7 @@
 
 - 💼 I'm currently a **Researcher Intern** at **Moises/Music.AI**
 - 📚 I am currently a **first-year** Computer Science student at **UFPB**. I was also accepted at **USP**
-- 🌱 I’m currently learning **Audio Signal Processing for Machine Learning**
+- 🌱 I’m currently learning **Machine Learning and Backend**
 
 <div style="display: inline_block">
   <h3 align="left">Languages and Tools:</h3>
