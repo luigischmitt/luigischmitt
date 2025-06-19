@@ -3,8 +3,9 @@
 <br>
 
 - 💼 I'm currently a **Researcher Intern** at **Moises/Music.AI**
-- 📚 I am currently a **first-year** Computer Science student at **UFPB**. I was also accepted at **USP**
+- 📚 I am currently a **third semester** Computer Science student at **UFPB**. I was also accepted at **USP**
 - 🌱 I’m currently learning **Machine Learning and Backend**
+- 🔗 Check out my [personal website](https://luigi-schmitt.lovable.app/)
 
 <div style="display: inline_block">
   <h3 align="left">Languages and Tools:</h3>
