@@ -4,7 +4,7 @@
 
 - 💼 I'm currently a **Researcher Intern** at **Moises/Music.AI**
 - 📚 I am currently a **third semester** Computer Science student at **UFPB**. I was also accepted at **USP**
-- 🌱 I’m currently learning **Machine Learning and Backend**
+- 🌱 I’m currently learning **Fullstack Development**
 - 🔗 Check out my [personal website](https://luigi-schmitt.lovable.app/)
 
 <div style="display: inline_block">
