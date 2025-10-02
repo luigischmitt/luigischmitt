@@ -3,8 +3,8 @@
 <br>
 
 - 💼 I'm currently an **Intern** at **Moises/Music.AI**
-- 📚 I am currently a **third semester** Computer Science student at **UFPB**. I was also accepted at **USP**
-- 🌱 I’m currently learning **DSA and Backend Development**
+- 📚 I am currently a **third semester** Computer Science student at **UFPB**.
+- 🌱 I’m currently learning **Backend Development and DSA**
 - 🔗 Check out my [personal website](https://luigi-schmitt.lovable.app/)
 
 <div style="display: inline_block">
