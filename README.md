@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Computer Science Student</h3>
 <br>
 
-- 💼 I'm currently an **Intern** at **Moises.ai**
+- 💼 I'm currently an **SWE Intern** at **Moises.ai**
 - 📚 I am currently a **4th semester** Computer Science student at **UFPB**.
 - 🌱 I’m currently learning **Backend Development and DSA**
 - 🔗 Check out my [personal website](https://luigi-schmitt.lovable.app/)
