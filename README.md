@@ -1,6 +1,6 @@
 swe intern @ moises
 
-breaking things since 2004
+engineering with curiosity
 
 ---
 
