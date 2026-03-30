@@ -1,4 +1,4 @@
-swe intern @ moises | cs @ ufpb
+incoming swe intern @ brex | cs @ ufpb
 
 engineering with curiosity
 
