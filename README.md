@@ -1,4 +1,4 @@
-incoming swe intern @ brex | cs @ ufpb
+swe intern @ brex | cs @ ufpb
 
 engineering with curiosity
 
