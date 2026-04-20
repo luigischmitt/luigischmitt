@@ -4,6 +4,6 @@ engineering with curiosity
 
 ---
 
-schmittluigi@gmail.com
+lschmitt@brex.com
 
 https://luigischmitt.com.br
